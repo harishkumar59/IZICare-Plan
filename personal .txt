@@ -1,0 +1,26 @@
+<div className="hero-content">
+  <div className="hero-text">
+    <h1 className="hero-title">IZICare Plan.</h1>
+    <p className="hero-tagline">Power up your journey with IZICart Care Plan</p>
+  </div>
+
+  <div className="hero-image-container">
+    <div className="background-text">ONE</div>
+
+    <div className="hero-cameras">
+
+      {/* Hero Camera Image 1 */}
+      <img 
+        src="/src/assets/images/hero-camera-1.jpg" 
+        alt="Action Camera" 
+        className="camera-1" 
+      />
+
+      {/* Hero Camera Image 2 Placeholder (still empty) */}
+      <div className="camera-placeholder camera-2">
+        <p>Add hero camera image 2 here</p>
+      </div>
+
+    </div>
+  </div>
+</div>
