@@ -34,7 +34,7 @@ function Home() {
               <div className="background-text">ONE</div>
               {/* Hero Image - Replace with your image at: src/assets/images/hero-image.jpg */}
               <img 
-                src="/src/assets/images/hero-image.jpg" 
+                src="src/assets/images/hero-image.jpg" 
                 alt="Hero" 
                 className="hero-main-image" 
               />
@@ -48,14 +48,14 @@ function Home() {
         <div className="logo-container">
           {/* IZI Logo - Replace with your image at: src/assets/images/izi-logo.png */}
           <img 
-            src="/src/assets/images/izi-logo.png" 
+            src="src/assets/images/izi-logo.png" 
             alt="IZI Logo" 
             className="brand-logo-img" 
           />
           <div className="logo-divider"></div>
           {/* PROTEGA Logo - Replace with your image at: src/assets/images/protega-logo.png */}
           <img 
-            src="/src/assets/images/protega-logo.png" 
+            src="src/assets/images/protega-logo.png" 
             alt="PROTEGA Logo" 
             className="brand-logo-img" 
           />
@@ -74,7 +74,7 @@ function Home() {
           </div>
           
           <div className="protection-card">
-          <img src="/src/assets/images/protection-liquid-damage.jpg" alt="Liquid Damage" />
+          <img src="src/assets/images/protection-liquid-damage.jpg" alt="Liquid Damage" />
 
             <p className="protection-description">
               Accidental liquid damage from single-incident exposure (splashes/spills)
@@ -82,7 +82,7 @@ function Home() {
           </div>
           
           <div className="protection-card">
-          <img src="/src/assets/images/protection-impact-damage.jpg" alt="Liquid Damage" />
+          <img src="src/assets/images/protection-impact-damage.jpg" alt="Liquid Damage" />
 
             <p className="protection-description">
               Impact damage to lenses, gimbals, motors or attachments due to sudden shock
@@ -90,7 +90,7 @@ function Home() {
           </div>
           
           <div className="protection-card">
-          <img src="/src/assets/images/protection-wearable-damage.jpg" alt="Liquid Damage" />
+          <img src="src/assets/images/protection-wearable-damage.jpg" alt="Liquid Damage" />
 
             <p className="protection-description">
               Damage to microphones, lights & wearables due to accidental impact
@@ -109,7 +109,7 @@ function Home() {
             </p>
           </div>
           <div className="cta-image-container">
-          <img src="/src/assets/images/cta-camera.jpg" alt="Liquid Damage" />
+          <img src="src/assets/images/cta-camera.jpg" alt="Liquid Damage" />
 
           </div>
         </div>
@@ -145,7 +145,7 @@ function Home() {
             <div className="how-it-works-image">
               {/* Phone Hand Image - Replace with your image at: src/assets/images/hand-phone.jpg */}
               <img 
-                src="/src/assets/images/hand-phone.jpg" 
+                src="src/assets/images/hand-phone.jpg" 
                 alt="Hand holding smartphone" 
                 className="hand-phone-image" 
               />
