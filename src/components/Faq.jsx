@@ -7,7 +7,7 @@
 
     const faqs = [
       {
-        question: "What is a IZICart Care Plan?",
+        question: "What is  IZICart Care Plan?",
         answer: "IZICart Care provides accidental damage coverage, extended warranty coverage and peace of mind. We get that accidents happen. That's why with IZICart Care, we'll provide you with a replacement product should you need one. The enhanced coverage begins at the time of purchase, and covers until the end of the IZICart Plan term length. See Terms and Conditions for additional details."
       },
       {
