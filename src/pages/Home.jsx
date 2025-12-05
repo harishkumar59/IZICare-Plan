@@ -27,7 +27,7 @@ function Home() {
         <div className="hero-container">
           <div className="hero-content">
             <div className="hero-text">
-              <h1 className="hero-title">IZICare Plan.</h1>
+              <h3 className="hero-title">IZICare Plan.</h3>
               <p className="hero-tagline">Power up your journey with IZICart Care Plan</p>
             </div>
             <div className="hero-image-container">
